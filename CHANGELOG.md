@@ -1,4 +1,4 @@
-### 5.0.4 - YYYY-MM-DD
+### 5.0.4 - 2026-05-08
 
 * security fixes
   * Fix open redirect in `FailureApp` via unvalidated `Referer` header on non-GET session timeout. CVE-2026-40295 [GHSA-jp94-3292-c3xv](https://github.com/heartcombo/devise/security/advisories/GHSA-jp94-3292-c3xv)
